@@ -2,7 +2,7 @@
   "__comment_server__": "=== SERVER CONNECTION SETTINGS ===",
   
   "_comment_host": "Your server's IP address or domain (Example: 'server.aternos.me')",
-  "serverHost": "server.aternos.me",
+  "serverHost": "Patatees.aternos.me",
   
   "_comment_port": "Server port. Leave it as 25565 if you don't know (Java default).",
   "serverPort": 25565,
@@ -13,7 +13,7 @@
   "__comment_bot__": "=== BOT SETTINGS ===",
   
   "_comment_username": "The name your bot will use in the game.",
-  "botUsername": "ServerGuard",
+  "botUsername": "ballldi",
 
   "_comment_viewDistance": "Bot view range (optional, 1-3 is enough for AFK).",
   "viewDistance": 1
