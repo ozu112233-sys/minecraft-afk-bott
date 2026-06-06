@@ -31,7 +31,7 @@ const { GoalNearXZ } = goals;
 const RECONNECT_DELAY = 10000;      // 10 seconds
 
 // Reconnect delay for initial connection failures (e.g., server is offline)
-const RECONNECT_FAIL_DELAY = 300000; // 5 minutes
+const RECONNECT_FAIL_DELAY = 120000; // 5 minutes
 
 // Time to wait for a server tick before assuming a frozen connection
 const WATCHDOG_TIMEOUT = 45000;    // 45 seconds
