@@ -5,7 +5,7 @@
   "serverHost": "Patatees.aternos.me",
   
   "_comment_port": "Server port. Leave it as 25565 if you don't know (Java default).",
-  "serverPort": 25565,
+  "serverPort": 61243,
 
   "_comment_version": "Minecraft server version. Example: '1.20.1', '1.19.4', '1.18.2'.",
   "serverVersion": "1.20.1",
