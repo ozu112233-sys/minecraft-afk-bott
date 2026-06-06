@@ -1,3 +1,13 @@
+const http = require('http');
+const server = http.createServer((req, res) => {
+  res.writeHead(200, { 'Content-Type': 'text/plain' });
+  res.end('Bot aktif!\n');
+});
+server.listen(process.env.PORT || 3000, () => {
+  console.log('[System] Web sunucusu baslatildi, Render kapanmayacak.');
+});
+
+
 /**
  * A human-like Mineflayer AFK bot designed to keep Minecraft servers alive
  * by simulating real player behavior, including movement, interaction, and chat responses.
